@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "https://your-heroku-app.herokuapp.com/:splat"
+status = 200
